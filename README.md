@@ -10,9 +10,18 @@ This repository demonstrates various **data visualization techniques** using the
 ### **Technologies Used**  
 🔹 Python (Pandas, NumPy)  
 🔹 Data Visualization (Seaborn, Matplotlib, Plotly)  
-
-### **How to Run**  
-Follow the same steps as above, cloning and running Jupyter notebooks.  
+ 
+### **How to Use**  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-repo/decahealth-ai.git
+   cd decahealth-ai
+   ```
+2. Run Jupyter Notebook:  
+   ```bash
+   jupyter notebook
+   ```
+3. Open the desired `.ipynb` file and run the model. 
 
 ---
 ### **Contributors**  
